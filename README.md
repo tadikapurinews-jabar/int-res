@@ -1,0 +1,2 @@
+# tadikapurinews-jabar
+# int-res
